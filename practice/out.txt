@@ -1,0 +1,12 @@
+The number 1 is ODD.
+The number 2 is EVEN.
+The number 3 is ODD.
+The number 4 is EVEN.
+The number 5 is ODD.
+The number 11 is ODD.
+The number 51 is ODD.
+The number 101 is ODD.
+The number 200 is EVEN.
+The number 202 is EVEN.
+The number 204 is EVEN.
+The number 100000000 is EVEN.
