@@ -1,0 +1,6 @@
+Survived.
+Dead after 2.5 seconds.
+Dead after 0.6 seconds.
+Dead after 4.5 seconds.
+Survived.
+Survived.
